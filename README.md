@@ -1,7 +1,7 @@
 # 🎾 TennisMarket
 
 TennisMarket는 테니스 용품을 쉽고 빠르게 구매할 수 있는 웹 애플리케이션입니다.  
-<배포 링크> (https://tjddbs531.github.io/EcoMate/)
+<배포 링크> (https://tjddbs531.github.io/TennisMarket/)
 ## 🚀 프로젝트 소개
 
 - 프로젝트 이름: TennisMarket
